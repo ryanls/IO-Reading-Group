@@ -5,7 +5,7 @@ This repository contains documents associated with an IO Reading Group at NYU fo
 * **discussant_slides** : contains slides used for discussions. 
 
     The file naming convention should be "[DATE IN MM-DD-YYYY]_[PRESENTER LAST NAME]" format.
-* **meeting_schedule** : excel file containing a list of dates, papers presented and discussants
+* **presentation_schedule** : excel file containing a list of dates, papers presented and discussants
 
     The meeting schedule is available in the following google doc: 
         https://docs.google.com/spreadsheets/d/12IR51xBRHYq2BwT82R4wKGzEIBpVBsOj_1DYWINb-j0/edit?usp=sharing   
