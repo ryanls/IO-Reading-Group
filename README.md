@@ -12,11 +12,11 @@ The folder structure for this repo is as follows:
 
 The meeting schedule is available in the following google docs: 
     
-    Spring 2020:
-    https://docs.google.com/spreadsheets/d/1zTseHXpzPUGX8Xz7jVfq_rlE727JJV-lOXDQkzOHZ6E/edit#gid=0
+Spring 2020:
+https://docs.google.com/spreadsheets/d/1zTseHXpzPUGX8Xz7jVfq_rlE727JJV-lOXDQkzOHZ6E/edit#gid=0
     
-    Fall 2019:
-    https://docs.google.com/spreadsheets/d/1keCHb6Cpu7apA3xVmRKRw5-Ej16gQYVIwVoGaa_-ne0/edit#gid=0
+Fall 2019:
+https://docs.google.com/spreadsheets/d/1keCHb6Cpu7apA3xVmRKRw5-Ej16gQYVIwVoGaa_-ne0/edit#gid=0
     
-    Spring 2019 and Fall 2018:
-    https://docs.google.com/spreadsheets/d/12IR51xBRHYq2BwT82R4wKGzEIBpVBsOj_1DYWINb-j0/edit#gid=0
+Spring 2019 and Fall 2018:
+https://docs.google.com/spreadsheets/d/12IR51xBRHYq2BwT82R4wKGzEIBpVBsOj_1DYWINb-j0/edit#gid=0
