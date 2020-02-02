@@ -1,6 +1,6 @@
 # IO-Reading-Group
 
-This repository contains documents associated with an IO Reading Group at NYU. 
+This repository contains documents associated with the IO Reading Group at NYU. 
 
 The folder structure for this repo is as follows:
 
