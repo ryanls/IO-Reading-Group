@@ -9,7 +9,8 @@ The folder structure for this repo is as follows:
     The file naming convention should be "[DATE IN MM-DD-YYYY]_[PRESENTER LAST NAME]" format.
 * **presentation_schedule** : excel file containing a list of dates, papers presented and discussants
 
-    The meeting schedule is available in the following google doc: 
+
+The meeting schedule is available in the following google docs: 
     
     Spring 2020:
     https://docs.google.com/spreadsheets/d/1zTseHXpzPUGX8Xz7jVfq_rlE727JJV-lOXDQkzOHZ6E/edit#gid=0
