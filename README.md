@@ -6,7 +6,7 @@ The folder structure for this repo is as follows:
 
 * **discussant_slides** : contains slides used for discussions. 
 
-    The file naming convention should be "[DATE IN MM-DD-YYYY]_[PRESENTER LAST NAME]" format.
+    The file naming convention should be "[DATE IN MM-DD-YYYY]_[PRESENTER NAME]" format.
 * **presentation_schedule** : excel file containing a list of dates, papers presented and discussants
 
 
