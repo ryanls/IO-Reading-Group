@@ -1,4 +1,4 @@
-# IO-Reading-Group
+# IO Reading Group
 
 This repository contains documents associated with the IO Reading Group at NYU. 
 
